@@ -120,6 +120,7 @@
     background-color: #333;
     color: white;
     font-family: sans-serif;
+    box-sizing: border-box;
 }
 .foot{
     width: 60% ;
@@ -127,6 +128,7 @@
     text-align: justify;
     margin: auto;
     background-color: #333;
+    box-sizing: border-box;
 }
 .foot a{
     text-decoration: none;
