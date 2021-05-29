@@ -1,7 +1,7 @@
 .con-1{
     background-color: yellow;
     width: 240px;
-    height: 120px;
+    height: 80%;
     box-sizing: content-box;
 }
 
@@ -9,7 +9,7 @@
     background-color: blue;
     margin: 10px;
     padding: 0px 3px;
-    height: 65px;
+    height: 80%;
     box-sizing: content-box;
 }
 
