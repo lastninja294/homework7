@@ -20,3 +20,134 @@
 .con-1 p{
     margin: 0px 5px;
 }
+
+.head-1 a{
+    color: brown;
+}
+
+
+
+.body-1 td{
+    border: 1px solid yellowgreen;
+    background-color: coral;
+    border-radius: 2px;
+}
+
+.pan-1{
+    background-color: rgb(255, 145, 0);
+    color: rgb(255, 255, 255);
+    
+}
+.pad{
+    padding: 10px 20px;
+}
+
+.ffam{
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    font-weight: 500;
+    
+}
+.pan-1 h1{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.foot-pan p{
+    padding-top: 0px;
+    text-align: justify;
+}
+
+.foot-pan h1{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.bold{
+    background-color: chocolate;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+}
+
+.bold h1{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-size: 120px;
+}
+
+.sec-1{
+    padding: 35px 0px;
+    background-color: rgb(189, 12, 12);
+    text-align: center;
+    font-size: 25px;
+}
+
+.sec-2{
+    background-color: rgb(209, 181, 24);
+    width: 100%;
+    height: 240px;
+}
+.sec-2 ul{
+    list-style: none;
+    text-align: center;
+}
+.sec-2 li{
+    display: inline-block;
+    padding-right: 8px;
+    color:seagreen;
+}
+
+.sec-2 a{
+    text-decoration: none;
+    color: seagreen;
+}
+
+.sec-2 .para{
+    padding-left: 15px;
+}
+
+.sec-2 .uch{
+    padding-left: 100px;
+}
+
+.banner{
+    background-color: rgb(209, 181, 24);
+
+}
+.footer{
+    width: 100%;
+    background-color: #333;
+    color: white;
+    font-family: sans-serif;
+}
+.foot{
+    width: 60% ;
+    height: 430px;
+    text-align: justify;
+    margin: auto;
+    background-color: #333;
+}
+.foot a{
+    text-decoration: none;
+    color: white;
+    background-color: chocolate;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.foot h1{
+    font-size: 40px;
+    font-weight: 100;
+    padding-bottom: 30px;
+}
+
+.space{
+    display: inline-block;
+    width: 20px;
+}
+
+.nun{
+    text-decoration: underline;
+    color: chocolate;
+}
