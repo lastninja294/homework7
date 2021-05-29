@@ -39,7 +39,6 @@
 .pan-1{
     background-color: rgb(255, 145, 0);
     color: rgb(255, 255, 255);
-    
 }
 .pad{
     padding: 10px 20px;
@@ -154,4 +153,10 @@
 .nun{
     text-decoration: underline;
     color: chocolate;
+}
+
+.banner{
+    width: 100%;
+    height: 80%;
+    box-sizing: content-box;
 }
