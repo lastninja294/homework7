@@ -58,7 +58,7 @@ body {
 
 
 
-
+/* Joylashuv uchun stillar */
 
 .container {
   width: 85%;
@@ -252,30 +252,8 @@ section .title::before {
   z-index: 2;
 }
 
-header#main-header {
-  background-color: #2a2a85;
-  color: #fff;
-  overflow: hidden;
-  padding: 20px 0;
-}
 
-header#main-header .logo {
-  font-size: 2rem;
-  display: inline-block;
-}
 
-header#main-header .logo + nav {
-  float: right;
-}
-
-header#main-header .logo + nav li {
-  display: inline-block;
-  padding: 10px 15px;
-}
-
-header#main-header .logo + nav li.active, header#main-header .logo + nav li:hover {
-  color: #37f3f3;
-}
 
 section#showcase {
   background-color: #2a2a85;
@@ -348,4 +326,31 @@ section#acardion .acardion .acardion-item {
   padding: 10px 15px;
   border-radius: 5px;
   font-size: 1.2rem;
+}
+
+/* Header uchun stillar */
+
+header#main-header {
+  background-color: #2a2a85;
+  color: #fff;
+  overflow: hidden;
+  padding: 20px 0;
+}
+
+header#main-header .logo {
+  font-size: 2rem;
+  display: inline-block;
+}
+
+header#main-header .logo + nav {
+  float: right;
+}
+
+header#main-header .logo + nav li {
+  display: inline-block;
+  padding: 10px 15px;
+}
+
+header#main-header .logo + nav li.active, header#main-header .logo + nav li:hover {
+  color: #37f3f3;
 }
